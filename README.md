@@ -1,2 +1,2 @@
-#⏰ Alarm Clock using Python
+⏰ Alarm Clock using Python
  
